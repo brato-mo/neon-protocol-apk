@@ -1,1 +1,1 @@
-{"versionCode": 29, "versionName": "1.0.29", "apk": "https://raw.githubusercontent.com/brato-mo/neon-protocol-apk/main/NeonProtocol.apk", "notes": "CI: RAJA deploy fails when wrangler fails (#3)"}
+{"versionCode": 30, "versionName": "1.0.30", "apk": "https://raw.githubusercontent.com/brato-mo/neon-protocol-apk/main/NeonProtocol.apk", "notes": "Skilovi: manja dugmad (50px) u luku oko DASH-a, sredina ekrana slobodna; AUTO iznad"}
