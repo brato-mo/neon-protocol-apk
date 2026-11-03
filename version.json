@@ -1,1 +1,1 @@
-{"versionCode": 27, "versionName": "1.0.27", "apk": "https://raw.githubusercontent.com/brato-mo/neon-protocol-apk/main/NeonProtocol.apk", "notes": "Merge pull request #2 from brato-mo/feature/social-raja"}
+{"versionCode": 29, "versionName": "1.0.29", "apk": "https://raw.githubusercontent.com/brato-mo/neon-protocol-apk/main/NeonProtocol.apk", "notes": "CI: RAJA deploy fails when wrangler fails (#3)"}
