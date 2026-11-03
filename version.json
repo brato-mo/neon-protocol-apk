@@ -1,1 +1,1 @@
-{"versionCode": 30, "versionName": "1.0.30", "apk": "https://raw.githubusercontent.com/brato-mo/neon-protocol-apk/main/NeonProtocol.apk", "notes": "Skilovi: manja dugmad (50px) u luku oko DASH-a, sredina ekrana slobodna; AUTO iznad"}
+{"versionCode": 31, "versionName": "1.0.31", "apk": "https://raw.githubusercontent.com/brato-mo/neon-protocol-apk/main/NeonProtocol.apk", "notes": "Najviše 2 aktivna skila za sve klase, DASH isključen (DASH_ON=false), dash talenti/set prebačeni na izbjegavanje i skilove"}
